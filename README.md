@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @raj3039
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning Angular
